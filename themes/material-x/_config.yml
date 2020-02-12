@@ -236,7 +236,7 @@ social:
     url: mailto:yforest@foxmail.com
   - icon: fab fa-github
     url: https://github.com/545641826
-  - icon: fa fa-linkedin-square
+  - icon: fab fa-linkedin
     url: https://www.linkedin.com/in/linyujing/
   # - icon: fas fa-headphones-alt
   #   url: https://music.163.com/#/user/home?id=63035382
@@ -263,7 +263,7 @@ share:
 
 
 # footer_post: '<center>打赏作者：<br><fancybox>![](https://wxt.sinaimg.cn/mw690/007VBhb5gy1gbr3r0zl2kj30st0stwgj.jpg)</fancybox></center>'
-footer_post: '<center>打赏<br/><img src="https://wxt.sinaimg.cn/mw690/007VBhb5gy1gbr3r0zl2kj30st0stwgj.jpg" width = "300" height = "300"/></center>'
+footer_post: '<center>打赏<br/><fancybox><img src="https://wxt.sinaimg.cn/mw690/007VBhb5gy1gbr3r0zl2kj30st0stwgj.jpg" width = "300" height = "300"/></fancybox></center>'
 # footer: '支持md'
 
 
