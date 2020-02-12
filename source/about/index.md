@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 关于
-date: 2020-02-12 01:03:34
 meta:
   header: []
   footer: []
