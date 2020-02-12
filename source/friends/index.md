@@ -22,7 +22,7 @@ links:
       textColor: '#FFF'  # 卡片文字颜色
       tags:     # 标签
       - 业余无线电
-      - 运维
+      - python
   - group: 长得帅
     icon: fas fa-user-tie
     items:
