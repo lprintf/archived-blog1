@@ -12,7 +12,7 @@ links:
       textColor: '#fff'  # 卡片文字颜色
       tags:     # 标签
       - IOS
-  - group: py交易
+  - group: 长得帅
     icon: fas fa-user-tie
     items:
     - name: adminerest's blog    # 博客名
@@ -23,9 +23,6 @@ links:
       tags:     # 标签
       - 业余无线电
       - python
-  - group: 长得帅
-    icon: fas fa-user-tie
-    items:
     - name: 肝之炼金师    # 博客名
       avatar: https://wxt.sinaimg.cn/thumb300/007VBhb5gy1gbr3qvt1u7j30cs0csglw.jpg  # 头像链接
       url: https://545641826.github.io/blog/about/     # 博客链接
