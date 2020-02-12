@@ -12,6 +12,17 @@ links:
       textColor: '#fff'  # 卡片文字颜色
       tags:     # 标签
       - IOS
+  - group: py交易
+    icon: fas fa-user-tie
+    items:
+    - name: adminerest's blog    # 博客名
+      avatar: https://www.adminerest.com/images/head.png  # 头像链接
+      url: https://www.adminerest.com/     # 博客链接
+      backgroundColor: '#3300FF' # 卡片背景颜色
+      textColor: '#FFF'  # 卡片文字颜色
+      tags:     # 标签
+      - 业余无线电
+      - 运维
   - group: 长得帅
     icon: fas fa-user-tie
     items:
