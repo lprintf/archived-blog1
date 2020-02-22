@@ -40,7 +40,7 @@ music:
   autoplay: false   # 自动播放
 
 # 友链页头像占位图
-avatar_placeholder: https://img.viavatarm-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
+avatar_placeholder: https://img.vim-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
 
 # 日期格式 http://momentjs.com/docs/
 date_format: 'YYYY-MM-DD' # 文章发布日期的格式
