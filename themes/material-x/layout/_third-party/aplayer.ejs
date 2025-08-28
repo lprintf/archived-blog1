@@ -1,5 +1,5 @@
 <% if (theme.music && theme.music.enable == true) { %>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/aplayer@1.7.0/dist/APlayer.min.css">
   <div class="aplayer"
     data-theme="<%- aplayer_theme != undefined ? aplayer_theme : theme.music.color %>"
     <%if(aplayer_mini){%>data-mini=true <%}%>
@@ -10,6 +10,6 @@
     data-id="<%= aplayer_id != undefined ? aplayer_id : theme.music.id %>"
     data-volume="<%= aplayer_volume != undefined ? aplayer_volume : theme.music.volume %>">
   </div>
-  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+  <script src="https://unpkg.com/aplayer@1.7.0/dist/APlayer.min.js"></script>
+  <script src="https://unpkg.com/meting@1.1.0/dist/Meting.min.js"></script>
 <% } %>

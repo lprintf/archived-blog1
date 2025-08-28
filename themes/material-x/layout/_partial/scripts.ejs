@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
 <% if (theme.search && theme.search.enable) { %>
   <script>
     <% if(theme.search.service === 'baidu') { %>
@@ -23,7 +23,7 @@
 <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
 
 <% if (theme.scrollreveal == true) { %>
-  <script src="https://cdn.jsdelivr.net/npm/scrollreveal@4.0.5/dist/scrollreveal.min.js"></script>
+  <script src="https://unpkg.com/scrollreveal@4.0.5/dist/scrollreveal.min.js"></script>
   <script type="text/javascript">
     $(function() {
       const $reveal = $('.reveal');
@@ -34,7 +34,7 @@
   </script>
 <% } %>
 <% if (theme.nodewaves == true) { %>
-  <script src="https://cdn.jsdelivr.net/npm/node-waves@0.7.6/dist/waves.min.js"></script>
+  <script src="https://unpkg.com/node-waves@0.7.6/dist/waves.min.js"></script>
   <script type="text/javascript">
     $(function() {
       Waves.attach('.flat-btn', ['waves-button']);
@@ -52,7 +52,7 @@
 <% } %>
 <% if (theme.fastclick == true) { %>
   <!-- fastclick -->
-  <script src="https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js"></script>
+  <script src="https://unpkg.com/fastclick@1.0.6/lib/fastclick.min.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       FastClick.attach(document.body)
@@ -140,8 +140,8 @@
   </script>
 <% } %>
 <% if (enableGitalk) { %>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/gitalk@1/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk@1/dist/gitalk.min.js"></script>
   <script type="text/javascript">
     var gitalk = new Gitalk({
       clientID: "<%- config.gitalk.clientID %>",
