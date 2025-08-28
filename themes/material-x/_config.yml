@@ -4,12 +4,12 @@ info:
   docs: https://xaoxuu.com/wiki/material-x/
   cdn: # 要使用CDN，请在根目录的config文件中写上 use_cdn: true
     css:
-      style: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@20.2.8/css/style.css
+      style: https://lprintf.github.io/blog/style.css
     js:
-      app: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@20.2.8/js/app.js
-      search: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@20.2.8/js/search.js
-      volantis: https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0.6/js/volantis.min.js
-      commentTyping: https://cdn.jsdelivr.net/gh/inkss/inkss.github.io/js/commentTyping.js
+      app: https://lprintf.github.io/blog/js/app.js
+      search: https://lprintf.github.io/blog/js/search.js
+      volantis: https://lprintf.github.io/blog/js/volantis.min.js
+      commentTyping: https://lprintf.github.io/blog/js/commentTyping.js
 
 
 ############################### 主题风格 ###############################
