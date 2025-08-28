@@ -24,12 +24,12 @@ gitalk:
   clientID: bf624dc5b8e4abca23b1
   clientSecret: 82b533df87869516a2fc370978e9d02761d8dc64
   repo: blog
-  owner: "545641826"
-  admin: ["545641826"]
+  owner: "lprintf"
+  admin: ["lprintf"]
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://545641826.github.io/blog/
+url: https://lprintf.github.io/blog/
 root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:

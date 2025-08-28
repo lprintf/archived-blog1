@@ -14,7 +14,7 @@ valine:
 <ul class="pure circle center about"><li><img  src="https://wxt.sinaimg.cn/thumb300/007VBhb5gy1gbr3qvt1u7j30cs0csglw.jpg"></li></ul>
 
 
-<center><a href="/"><i href="/" class="fas fa-rss"></i></a>&nbsp;&nbsp;<a href="https://github.com/545641826"><i class="fab fa-github"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/linyujing/"><i class="fab fa-linkedin"></i></a></center>
+<center><a href="/"><i href="/" class="fas fa-rss"></i></a>&nbsp;&nbsp;<a href="https://github.com/lprintf"><i class="fab fa-github"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/linyujing/"><i class="fab fa-linkedin"></i></a></center>
 <hr>
 {% raw %}</div>{% endraw %}
 <hr><br>

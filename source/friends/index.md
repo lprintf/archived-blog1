@@ -25,7 +25,7 @@ links:
       - python
     - name: 肝之炼金师    # 博客名
       avatar: https://wxt.sinaimg.cn/thumb300/007VBhb5gy1gbr3qvt1u7j30cs0csglw.jpg  # 头像链接
-      url: https://545641826.github.io/blog/about/     # 博客链接
+      url: https://lprintf.github.io/blog/about/     # 博客链接
       backgroundColor: '#3E74C9' # 卡片背景颜色
       textColor: '#fff'  # 卡片文字颜色
       tags:     # 标签

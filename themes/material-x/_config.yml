@@ -117,7 +117,7 @@ menu_mobile:
     rel: nofollow
   - name: 开源项目
     icon: fas fa-code-branch
-    url: https://github.com/545641826?tab=projects
+    url: https://github.com/lprintf?tab=projects
   - name: 我的友链
     icon: fas fa-link
     url: friends/
@@ -236,7 +236,7 @@ social:
   - icon: fas fa-envelope
     url: mailto:yforest@foxmail.com
   - icon: fab fa-github
-    url: https://github.com/545641826
+    url: https://github.com/lprintf
   - icon: fab fa-linkedin
     url: https://www.linkedin.com/in/linyujing/
   # - icon: fas fa-headphones-alt
