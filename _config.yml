@@ -114,4 +114,7 @@ theme: material-x
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:lprintf/blog.git
+  branch: gh-pages
+  message: "Build at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
