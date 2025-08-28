@@ -264,7 +264,7 @@ share:
 
 
 # footer_post: '<center>打赏作者：<br><fancybox>![](https://wxt.sinaimg.cn/mw690/007VBhb5gy1gbr3r0zl2kj30st0stwgj.jpg)</fancybox></center>'
-footer_post: '<center>打赏<br/><fancybox><img src="https://wxt.sinaimg.cn/mw690/007VBhb5gy1gbr3r0zl2kj30st0stwgj.jpg" width = "300" height = "300"/></fancybox></center>'
+# footer_post: '<center>打赏<br/><fancybox><img src="https://wxt.sinaimg.cn/mw690/007VBhb5gy1gbr3r0zl2kj30st0stwgj.jpg" width = "300" height = "300"/></fancybox></center>'
 # footer: '支持md'
 
 
