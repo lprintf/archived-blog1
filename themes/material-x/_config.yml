@@ -124,7 +124,7 @@ menu_mobile:
     rel: nofollow
   - name: 主题文档
     icon: fas fa-book
-    url: https://xaoxuu.com/wiki/material-x/
+    url: https://lprintf.github.io
     rel: nofollow
   - name: 关于小站
     icon: fas fa-info-circle
@@ -183,7 +183,7 @@ sidebar:
         rel: nofollow
       - name: 主题文档
         icon: fas fa-book
-        url: https://xaoxuu.com/wiki/material-x/
+        url: https://lprintf.github.io
         rel: nofollow
       - name: 关于小站
         icon: fas fa-info-circle
