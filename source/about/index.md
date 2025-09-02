@@ -11,7 +11,7 @@ valine:
   placeholder: 有什么想对我说的呢？
 ---
 {% raw %}<div class="style-example example">{% endraw %}
-<ul class="pure circle center about"><li><img  src="https://lprintf.github.io/blog/img/avatar.jpeg"></li></ul>
+<ul class="pure circle center about"><li><img  src="https://lprintf.github.io/archived-blog1/img/avatar.jpeg"></li></ul>
 
 
 <center><a href="/"><i href="/" class="fas fa-rss"></i></a>&nbsp;&nbsp;<a href="https://github.com/lprintf"><i class="fab fa-github"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/linyujing/"><i class="fab fa-linkedin"></i></a></center>

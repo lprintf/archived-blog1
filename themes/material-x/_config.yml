@@ -4,12 +4,12 @@ info:
   docs: https://xaoxuu.com/wiki/material-x/
   cdn: # 要使用CDN，请在根目录的config文件中写上 use_cdn: true
     css:
-      style: https://lprintf.github.io/blog/style.css
+      style: https://lprintf.github.io/archived-blog1/style.css
     js:
-      app: https://lprintf.github.io/blog/js/app.js
-      search: https://lprintf.github.io/blog/js/search.js
-      volantis: https://lprintf.github.io/blog/js/volantis.min.js
-      commentTyping: https://lprintf.github.io/blog/js/commentTyping.js
+      app: https://lprintf.github.io/archived-blog1/js/app.js
+      search: https://lprintf.github.io/archived-blog1/js/search.js
+      volantis: https://lprintf.github.io/archived-blog1/js/volantis.min.js
+      commentTyping: https://lprintf.github.io/archived-blog1/js/commentTyping.js
 
 
 ############################### 主题风格 ###############################
@@ -155,7 +155,7 @@ layout:
 # 侧边栏小部件配置
 sidebar:
   - widget: author
-    avatar: https://lprintf.github.io/blog/img/avatar.jpeg
+    avatar: https://lprintf.github.io/archived-blog1/img/avatar.jpeg
     jinrishici: true
     social: true
   # - widget: plain
