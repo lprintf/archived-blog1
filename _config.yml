@@ -23,14 +23,14 @@ baidu_analytics_key: 606cef791283f4e75daebb42a50e7eec
 gitalk:
   clientID: bf624dc5b8e4abca23b1
   clientSecret: 82b533df87869516a2fc370978e9d02761d8dc64
-  repo: blog
+  repo: archived-blog1
   owner: "lprintf"
   admin: ["lprintf"]
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://lprintf.github.io/archived-blog1/
-root: /blog/
+root: /archived-blog1/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

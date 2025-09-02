@@ -95,15 +95,15 @@ menu_desktop:
     url: /
   - name: 分类
     icon: fas fa-folder-open
-    url: blog/categories/
+    url: archived-blog1/categories/
     rel: nofollow
   - name: 标签
     icon: fas fa-hashtag
-    url: blog/tags/
+    url: archived-blog1/tags/
     rel: nofollow
   - name: 归档
     icon: fas fa-archive
-    url: blog/archives/
+    url: archived-blog1/archives/
     rel: nofollow
 
 # 手机端导航菜单（从右上角的按钮点击展开）
@@ -113,7 +113,7 @@ menu_mobile:
     url: /
   - name: 文章归档
     icon: fas fa-archive
-    url: blog/archives/
+    url: archived-blog1/archives/
     rel: nofollow
   - name: 开源项目
     icon: fas fa-code-branch
@@ -172,7 +172,7 @@ sidebar:
         url: /
       - name: 文章归档
         icon: fas fa-archive
-        url: blog/archives/
+        url: archived-blog1/archives/
         rel: nofollow
       - name: 开源项目
         icon: fas fa-code-branch
@@ -192,13 +192,13 @@ sidebar:
   - widget: category
     more:
       icon: fas fa-expand-arrows-alt
-      url: blog/categories/
+      url: archived-blog1/categories/
       rel: nofollow
   - widget: tagcloud
     icon: fas fa-tags
     more:
       icon: fas fa-expand-arrows-alt
-      url: blog/tags/
+      url: archived-blog1/tags/
       rel: nofollow
   # - widget: related_posts # 需要安装插件  npm i -S hexo-related-popular-posts
   - widget: music
